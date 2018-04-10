@@ -4,7 +4,7 @@
   "description": "PerunaCraftin Discord bot.",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node ."
   },
   "author": "MasterFIN",
   "license": "ISC",
