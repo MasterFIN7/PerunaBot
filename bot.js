@@ -68,4 +68,4 @@ bot.on("message", function(message) {
   }
 });
 
-bot.login(TOKEN);
+bot.login(procress.env.BOT_TOKEN);
